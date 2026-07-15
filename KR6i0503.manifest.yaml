@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0503/v1
 canonical_location: https://kanripo.org/bkk/KR6i0503/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說貧窮老公經
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0503_000.yaml, hash: 'sha256:22faaa216145f57bb7ff73fd60435ccecb0e42bf0cc48940a48e99846a743902'}
-  - {seq: 1, filename: KR6i0503_001.yaml, hash: 'sha256:1eb46de8640e0829551ea68b269532a4050991a58e753556f73f85cf6b4d0495'}
+  - {seq: 1, filename: KR6i0503_001.yaml, hash: 'sha256:cc6d05b7d45df98337d43ef2987b6635e4b84542ec5d1e401dd4bf151f32b939'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0503_000.markers.yaml, hash: 'sha256:f1f2ccef2e9a8f25b30583fcebd4225bcbf484bcd6d7202e340620bb8a975a04'}
-  - {seq: 1, role: markers, filename: assets/KR6i0503_001.markers.yaml, hash: 'sha256:39448959f9a162ac80296594890b1b65ca438fa429830b2e27c38684c7cc36e9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0503_001.markers.yaml, hash: 'sha256:21fc2575651d9c3db26a1e07ea76f022e0b54474bcfdbe0fff4fdfc364e22c4b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 佛說貧窮老公經
   type: juan
   level: 1
-hash: sha256:49bcdced2f0819401af685392c453b561df274fd8c897c1549395a156ae62c43
+hash: sha256:be5ca6ecad5c0b019ec3cc593a039aa09e6f3c0df55d661895b4813fd5446f95
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
